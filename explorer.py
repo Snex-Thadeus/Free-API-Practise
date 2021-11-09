@@ -2,8 +2,8 @@ from twilio.rest import Client
 
 
 client = Client(
-    "ACa58cc88cde3cedb825651ae997d0c34b",
-    "dbe29be7097e1cb4f0ff9a56c5625b23"
+    "ID",
+    "oken"
 )
 
 for msg in client.messages.list()
