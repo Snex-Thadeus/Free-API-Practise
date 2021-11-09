@@ -18,8 +18,8 @@ app.secret_key = "ssssh don't tell anyone"
 TWILIO_PHONE_NUMBER = +19514762521
 
 client = Client(
-    "ACa58cc88cde3cedb825651ae997d0c34b",
-    "dbe29be7097e1cb4f0ff9a56c5625b23"
+    "ID",
+    "oken"
 )
 
 def get_sent_messages():
